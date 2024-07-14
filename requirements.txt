@@ -1,0 +1,4 @@
+openai==1.35.13
+PyPDF2==3.0.1
+slack-sdk==3.31.0
+python-dotenv==1.0.1
