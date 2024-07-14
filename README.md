@@ -49,11 +49,3 @@ python -m src.main path/to/your/document.pdf "Question 1?" "Question 2?" "Questi
 ```
 
 The application will process the PDF, answer the questions, and post the results to the specified Slack channel.
-
-## Testing
-
-To run the tests, use the following command:
-
-```
-python -m unittest discover tests
-```
